@@ -86,6 +86,14 @@ D. Kolkata
 
 ---
 
-## 🤝 Contributing
+🤝 Contributing
 
-Feel free to f
+Feel free to fork this repo and improve the game!
+
+📜 License
+
+This project is open-source and free to use.
+
+👨‍💻 Author
+
+Anish Kumar
